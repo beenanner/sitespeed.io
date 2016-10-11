@@ -1,0 +1,21 @@
+permalink: /:title/
+ftp_host: ftp.soulislove.com
+ftp_dir: /
+production_url : https://www.sitespeed.io
+markdown: kramdown
+#markdown: redcarpet
+#redcarpet:
+#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+# options for _layouts/compress.html
+compress_html:
+  clippings: all
+  endings: all
+kramdown:
+    enable_coderay: false
+    coderay:
+    coderay_wrap:              div
+    coderay_line_numbers:      inline
+    coderay_line_number_start: 1
+    coderay_tab_width:         4
+    coderay_bold_every:        10
+    coderay_css:               style
