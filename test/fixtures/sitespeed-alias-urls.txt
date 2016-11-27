@@ -1,0 +1,4 @@
+https://www.sitespeed.io Home_Page
+https://www.sitespeed.io/documentation/webpagetest/
+https://www.sitespeed.io/documentation/rules-and-best-practices/ Docs_BestPractices
+https://www.sitespeed.io/faq FAQ
